@@ -1,1 +1,39 @@
+# my_list = [1, 2, 3, "Python", True]  # لیست
+# my_tuple = (10, 20, 30 , True)  # تاپل
+# my_range = range(1, 6)   # تولید عدد از ۱ تا ۵
 
+# print(type(my_list))  # <class 'list'>
+# print(type(my_tuple))  # <class 'tuple'>
+# print(type(my_range))  # <class 'range'>
+ 
+
+# my_list[0] = 'hamed'
+# print(my_list)
+
+# print(my_tuple)
+
+# print(4//2)
+# print(int(10/3))
+
+# x = False
+# y = False
+# print(x and y)  # False
+# print(x or y)   # True
+# print(not x)    # False
+
+# a = 5  # 101
+# b = 3  # 011
+# print(a & b)  # 001 -> 1
+# print(a | b)  # 111 -> 7
+
+
+# hamed = range(1 ,10 , 2)
+# print(list(hamed))
+
+# x = int(3.9)  # 3
+# y = int("25")  # 25
+# z = int(False)  # 1
+# print(x, y, z)
+
+for x in "banana":
+  print(x)
